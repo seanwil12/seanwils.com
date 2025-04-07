@@ -18,12 +18,12 @@
 *** for contributors-url, forks-url, etc. This is an optional, concise syntax you may use.
 *** https://www.markdownguide.org/basic-syntax/#reference-style-links
 -->
-[![Contributors][contributors-shield]][contributors-url]
+<!-- [![Contributors][contributors-shield]][contributors-url]
 [![Forks][forks-shield]][forks-url]
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 [![Unlicense License][license-shield]][license-url]
-[![LinkedIn][linkedin-shield]][linkedin-url]
+[![LinkedIn][linkedin-shield]][linkedin-url] -->
 
 
 
@@ -31,7 +31,7 @@
 <br />
 <div align="center">
   <a href="https://github.com/seanwil12/seanwils.com">
-    <img src="images/logo.png" alt="Logo" width="80" height="80">
+    <img src="src/assets/logo.svg" alt="Logo" width="80" height="80">
   </a>
 
   <h3 align="center">seanwils.com Personal Website</h3>
@@ -83,7 +83,7 @@
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
-[![Product Name Screen Shot][product-screenshot]](https://example.com)
+<!-- [![Product Name Screen Shot][product-screenshot]](https://seanwils.com) -->
 
 Currently, there is a template site on the site and I would like to replace it with something completely custom and visually appealing. This includes fully responsive design, high resolution images, access to all apps and an admin section. There should be no cost to this goal outside of my own personal time.
 
@@ -128,7 +128,7 @@ First, you would want to install node package manager.
 
 1. Clone the repo
    ```sh
-   git clone https://github.com/github_username/repo_name.git
+   git clone https://github.com/seanwil12/seanwils.com.git
    ```
 2. Install NPM packages
    ```sh
@@ -158,13 +158,15 @@ _For more examples, please refer to the [Documentation](https://example.com)_
 <!-- ROADMAP -->
 ## Roadmap
 
-- [x] Add Changelog
-- [x] Add back to top links
-- [ ] Add Additional Templates w/ Examples
-- [ ] Add "components" document to easily copy & paste sections of the readme
-- [ ] Multi-language Support
-    - [ ] Chinese
-    - [ ] Spanish
+- [x] Develop README.md
+- [x] Create GitHub
+- [ ] Develop Design
+- [ ] Merge Design with React.js 
+- [ ] Develop Resume
+- [ ] Develop Contact Section
+- [ ] Develop About Section
+- [ ] Develop Log In/Out
+- [ ] Develop Blog
 
 See the [open issues](https://github.com/seanwil12/seanwils.com/issues) for a full list of proposed features (and known issues).
 
@@ -186,13 +188,13 @@ Don't forget to give the project a star! Thanks again!
 4. Push to the Branch (`git push origin feature/AmazingFeature`)
 5. Open a Pull Request
 
-### Top contributors:
+<!-- ### Top contributors:
 
 <a href="https://github.com/seanwil12/seanwils.com/graphs/contributors">
   <img src="https://contrib.rocks/image?repo=seanwil12/seanwil12" alt="contrib.rocks image" />
-</a>
+</a> -->
 
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
+<p align="right">(<a href="#readme-top">back to top</a>)</p> 
 
 
 
